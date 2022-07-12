@@ -1,0 +1,24 @@
+= Themen-Board
+:icons: font
+
+Hier sammeln wir Themen für unsere monatlichen Java-Treffs. Anhand der hier hinterlegten Themenvorschläge versuchen wir, passende Vorträge und Speaker zu finden, die euch das Thema dann in einem zukünftigen Termin näherbringen.
+
+WARNING: Das Repository ist genauso wie unser monatlicher Termin öffentlich, achtet also darauf, keine privaten Dinge oder persönliche Daten zu veröffentlichen.
+
+== tl;dr
+
+Um ein Thema einzubringen, https://github.com/jug-in/Themen-Board/issues/new/choose[erstellt ein neues Issue] und beschreibt kurz, was ihr euch vorstellt. Bekundet Interesse an https://github.com/jug-in/Themen-Board/issues[bestehenden Themen], indem ihr am zugehörigen Issue eine positive Reaktion hinterlasst.
+
+== Labels
+
+Folgende Labels verwenden wir zur Kategorisierung:
+
+Vortrag::
+Für Themen, zu denen ihr einen Vortrag hören wollt. Nennt eventuelle spezifische Fragestellungen oder bestimmte Speaker, die euch interessieren.
+
+Diskussion::
+Für Themen, die ihr mit uns in größerer Runde offen diskutieren wollt.
+
+== Terminplanung
+
+Sobald wir einen konkreten Termin für ein Thema gefunden haben, ergänzen wir im Issue Details und fügen das Datum des entsprechenden Java-Treffs als Meilenstein hinzu.
